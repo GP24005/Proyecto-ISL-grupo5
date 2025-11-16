@@ -142,58 +142,6 @@ docker ps -a
 
 1. Crear archivo `/proyecto/web/index.html` con contenido personalizado:
 
-#<!DOCTYPE html>
-#<html lang="es">
-#<head>
-#  <meta charset="UTF-8">
-#  <title>Proyecto - Software Libre</title>
-#  <style>
-#    body {
-#      font-family: Arial, sans-serif;
-#      background: #0d1117;
-#      color: #e6e6e6;
-#      margin: 0;
-#      padding: 40px;
-#      text-align: center;
-#    }
-#    .card {
-#      background: #161b22;
-#      padding: 25px;
-#      border-radius: 10px;
-#      max-width: 700px;
-#      margin: auto;
-#      box-shadow: 0 0 10px rgba(0,0,0,0.4);
-#    }
-#    h1 { color: #00d4b4; }
-#    h2 { color: #7bdfff; }
-#    ul { list-style: none; padding: 0; }
-#    li { margin: 8px 0; font-weight: bold; }
-#  </style>
-#</head>
-#<body>
-#  <div class="card">
-#    <h1>Proyecto de Servidor Web Containerizado</h1>
-#    <h2>Introducción al Software Libre</h2>
-#
-#    <p>
-#      Este proyecto implementa un servidor web usando Docker y Nginx, junto con
-#      administración de usuarios, permisos, cron, y estructura del sistema.
-#    </p>
-#
-#    <h3>Integrantes</h3>
-#    <ul>
-#      <li>JASON ALEXANDER MOLINA ORTIZ</li>
-#      <li>RODRRIGO ERNESTO GARCIA PORTILLO</li>
-#      <li>BRANDON EMMANUEL MORALES BOLAÑOS</li>
-#      <li>CINDY ARIANA REYES MOLINA</li>
-#    </ul>
-#
-#    <p style="margin-top:20px; font-size:14px; color:#bbb;">
-#      Grupo 5 — Servidor-Grupo5
-#    </p>
-#  </div>
-#</body>
-#</html>
 
 
 2. Ejecutar contenedor Nginx:
