@@ -6,11 +6,13 @@ Departamento de Ingeniería y Arquitectura
 Ingeniería en Desarrollo de Software 
 **Ciclo II – 2025**
 #Docente: Ing. Graciela Albaluz
+
 #Integrantes:
-# 	JASON ALEXANDER MOLINA ORTIZ
-#      	RODRRIGO ERNESTO GARCIA PORTILLO
-#      	BRANDON EMMANUEL MORALES BOLAÑOS
-#      	CINDY ARIANA REYES MOLINA
+
+## JASON ALEXANDER MOLINA ORTIZ
+## RODRRIGO ERNESTO GARCIA PORTILLO
+## BRANDON EMMANUEL MORALES BOLAÑOS
+## CINDY ARIANA REYES MOLINA
 
 #Objetivo
 
